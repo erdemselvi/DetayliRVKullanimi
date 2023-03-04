@@ -1,0 +1,2 @@
+# DetayliRVKullanimi
+Detaylı Recyclerview Kullanımı
