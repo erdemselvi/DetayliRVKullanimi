@@ -1,0 +1,2 @@
+rootProject.name='DetayliRVKullanimi'
+include ':app'
